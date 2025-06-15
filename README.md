@@ -14,7 +14,7 @@ API simples em Spring Boot 3 + Java 17 com autenticação JWT e controle de aces
 1. **Clone o repositório**
 
 ```bash
-git clone <seu-fork-ou-zip>
+git clone https://github.com/devefrens/atividade-crud-2bim-spring.git
 cd jwt-auth-api
 ```
 
